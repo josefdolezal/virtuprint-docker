@@ -26,7 +26,7 @@ Docker creted new container
 If you are not interested in modifing Dockerfile or just more comfortable with pulling image, you can simply run:
 
 ```
-docker run --rm --name myoctoprint -p3200:5000 josefdolezal/virtuprint
+docker run --rm --name myoctoprint -p3200:5000 josefdolezal/virtuprint-docker
 ```
 
 # License
